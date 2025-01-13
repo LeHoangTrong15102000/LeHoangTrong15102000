@@ -1,6 +1,6 @@
-# Hi! I'm [Your Name] 👋
+# Hi! I'm Le Hoang Trong 👋
 
-🚀 [Giới thiệu ngắn về bản thân]
+🚀 > Hi, I'm a Front-end Web Developer who can code all day without getting tired.
 
 ## 🛠️ Technologies & Tools
 
@@ -9,7 +9,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-[Thêm các badge khác tương tự]
 
 ### Frontend Development:
 ![ReactJS](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -17,9 +16,7 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Shadcn/UI](https://img.shields.io/badge/Shadcn/UI-000000.svg?style=for-the-badge&logo=shadcnui&logoColor=white)
 ![Ant Design](https://img.shields.io/badge/Ant%20Design-%230170FE.svg?style=for-the-badge&logo=ant-design&logoColor=white)
-[Thêm các badge khác]
 
-[Tiếp tục với các phần khác...]
 
 ### Backend Development + Database:
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
