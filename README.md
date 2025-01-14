@@ -24,10 +24,10 @@
 ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-%230055D1.svg?style=for-the-badge&logo=framer&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
 ![Immer](https://img.shields.io/badge/Immer-%238DD6F9.svg?style=for-the-badge&logo=immer&logoColor=white)
-![DnD Kit](https://img.shields.io/badge/DnD%20Kit-000000?style=for-the-badge&logo=drag-and-drop&logoColor=white)
+![DnD Kit](https://img.shields.io/badge/DnD%20Kit-#2312B886?style=for-the-badge&logo=drag-and-drop&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-brown?style=for-the-badge&logo=react&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-%23000000.svg?style=for-the-badge&logo=react&logoColor=white)
 
 
 ### Backend Development + Database:
