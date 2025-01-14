@@ -16,6 +16,10 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Shadcn/UI](https://img.shields.io/badge/Shadcn/UI-000000.svg?style=for-the-badge&logo=shadcnui&logoColor=white)
 ![Ant Design](https://img.shields.io/badge/Ant%20Design-%230170FE.svg?style=for-the-badge&logo=ant-design&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
+![Headless UI](https://img.shields.io/badge/Headless--UI-%23000000.svg?style=for-the-badge&logo=headlessui&logoColor=white)
+![Tanstack Query](https://img.shields.io/badge/Tanstack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
 
 ### Backend Development + Database:
