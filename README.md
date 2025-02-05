@@ -38,7 +38,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![Drizzle](https://img.shields.io/badge/Drizzle-%23000000.svg?style=for-the-badge&logo=drizzle&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-%23000000.svg?style=for-the-badge&logo=drizzle&logoColor=%23C5F74F)
 ![MongoDB Driver](https://img.shields.io/badge/MongoDB%20Driver-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-%23880000.svg?style=for-the-badge&logo=mongoose&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/TypeORM-%23E83524.svg?style=for-the-badge&logo=typeorm&logoColor=white)
